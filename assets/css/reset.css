@@ -1,0 +1,10 @@
+/* Redefinição dos Estilos Padrões dos Navegadores */
+/* Ajuda que o site desenvolvido tenho o mesmo design em todos os  navegadores */
+
+/* Selector Universal */
+* {
+  margin: 0;
+
+  font-family: 'Raleway', sans-serif;
+  font-style: normal;
+}
